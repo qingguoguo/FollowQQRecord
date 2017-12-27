@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FollowQQRecord</string>
+
+    <string name="title_whine">变声</string>
+    <string name="title_talk_back">对讲</string>
+    <string name="title_record">录音</string>
+
+    <string name="press_talk_back">按住说话</string>
+    <string name="press_record">点击录音</string>
 </resources>
